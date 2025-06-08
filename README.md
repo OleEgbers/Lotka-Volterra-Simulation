@@ -1,5 +1,8 @@
 # Lotka-Volterra Simulation (Räuber-Beute-Modell)
 
+![image](https://github.com/user-attachments/assets/a01e5ce2-c338-41df-ac6c-04ee8c3b833a)
+
+
 Dieses Java-Projekt simuliert das klassische Lotka-Volterra-Räuber-Beute-Modell mit einer grafischen Oberfläche. Die Populationen von Räubern (rot) und Beute (grün) werden in Echtzeit simuliert und als Kurve dargestellt.
 
 ## Features
